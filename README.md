@@ -1,1 +1,1 @@
-# HTMLlab These are my HTML labs I made for COGS 3.
+# studyBuddy This is my HTML lab i made for COGS 3.
